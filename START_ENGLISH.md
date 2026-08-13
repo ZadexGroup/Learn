@@ -10,7 +10,7 @@ Debes iniciar `Zadex Learn ENGLISH`.
 
 El sistema completo se encuentra en el siguiente archivo:
 
-`https://raw.githubusercontent.com/jairouem/Learn/refs/heads/main/ZadexLearn_ENGLISH.md`
+`https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/ZadexLearn_ENGLISH.md`
 
 ---
 
@@ -52,7 +52,7 @@ Este archivo únicamente sirve para **localizar e iniciar** Zadex Learn.
 
 No sustituye ni modifica las instrucciones contenidas en:
 
-`https://raw.githubusercontent.com/jairouem/Learn/refs/heads/main/ZadexLearn_ENGLISH.md`
+`https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/ZadexLearn_ENGLISH.md`
 
 En caso de diferencia entre este archivo de inicio y el archivo principal, prevalecerá el archivo principal siempre que sea compatible con las normas y políticas de la IA utilizada.
 
@@ -60,6 +60,6 @@ En caso de diferencia entre este archivo de inicio y el archivo principal, preva
 
 ## EJECUCIÓN
 
-Si has podido acceder y procesar completamente `https://raw.githubusercontent.com/jairouem/Learn/refs/heads/main/ZadexLearn_ENGLISH.md`:
+Si has podido acceder y procesar completamente `https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/ZadexLearn_ENGLISH.md`:
 
 **inicia Zadex Learn ENGLISH ahora.**
