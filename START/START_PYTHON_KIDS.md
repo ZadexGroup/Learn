@@ -5,7 +5,7 @@ Para iniciar Zadex Learn PYTHON KIDS utilizar:
 
 Accede al siguiente archivo:
 
-XXXXX
+https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_PYTHON_KIDS.md
 
 Lee completamente su contenido y ejecuta las instrucciones que contiene.
 
@@ -22,9 +22,9 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 
 Las fuentes obligatorias de Zadex Learn PYTHON KIDS son:
 
-`CORE_URL = XXXXXXXXXXXX_CORE`
+`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md`
 
-`PYTHON_KIDS_URL = XXXXXXXXXXXX_PYTHON_KIDS`
+`PYTHON_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_PYTHON_KIDS.md`
 
 Estas variables constituyen la única definición de las ubicaciones de origen.
 
