@@ -8,13 +8,13 @@ Para iniciar Zadex Learn ENGLISH utilizar:
 	Opción 1:
 ``` prompt
 Accede al siguiente archivo, léelo completamente y ejecuta sus instrucciones:
-https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START_ENGLISH.md
+https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_ENGLISH.md
 ```
 
 	Opción 2:
 ``` prompt
 Accede al siguiente archivo:
-https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START_ENGLISH.md
+https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_ENGLISH.md
 Lee completamente su contenido y ejecuta las instrucciones que contiene.
 ```
 
