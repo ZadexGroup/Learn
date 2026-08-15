@@ -29,9 +29,9 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 
 Las fuentes obligatorias de Zadex Learn ENGLISH son:
 
-`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/ZadexLearn_CORE.md`
+`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md`
 
-`ENGLISH_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/ZadexLearn_ENGLISH.md`
+`ENGLISH_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_ENGLISH.md`
 
 Estas variables constituyen la única definición de las ubicaciones de origen.
 
