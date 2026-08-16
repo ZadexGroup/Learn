@@ -5,7 +5,7 @@ Para iniciar Zadex Learn PYTHON KIDS utilizar:
 
 Accede al siguiente archivo:
 
-https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_PYTHON_KIDS.md
+XXXXX
 
 Lee completamente su contenido y ejecuta las instrucciones que contiene.
 
@@ -22,7 +22,10 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 
 Las fuentes obligatorias de Zadex Learn PYTHON KIDS son:
 
+
 `CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md`
+
+`CORE_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE_KIDS.md`
 
 `PYTHON_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_PYTHON_KIDS.md`
 
@@ -31,6 +34,8 @@ Estas variables constituyen la única definición de las ubicaciones de origen.
 Todas las referencias posteriores a:
 
 `CORE_URL`
+
+`CORE_KIDS_URL`
 
 y:
 
@@ -46,7 +51,7 @@ Las URLs no deberán redefinirse en ninguna otra sección de `START`.
 
 Debes iniciar `Zadex Learn PYTHON KIDS`.
 
-El sistema está compuesto por dos archivos obligatorios:
+El sistema está compuesto por tres archivos obligatorios:
 
 ### CORE
 
@@ -56,6 +61,14 @@ Su ubicación está definida en:
 
 `CORE_URL`
 
+### CORE KIDS
+
+Contiene las reglas, comportamiento y metodología comunes de Zadex Learn cuando el alumno es un menor.
+
+Su ubicación está definida en:
+
+`CORE_KIDS_URL`
+
 ### MATERIA
 
 Contiene la configuración, objetivos, competencias, reglas y metodología específicos de PYTHON KIDS.
@@ -64,9 +77,9 @@ Su ubicación está definida en:
 
 `PYTHON_KIDS_URL`
 
-Ambos archivos forman conjuntamente:
+Los tres archivos forman conjuntamente:
 
-`ZADEX LEARN CORE + ZADEX LEARN PYTHON KIDS`
+`ZADEX LEARN CORE + ZADEX LEARN CORE KIDS + ZADEX LEARN PYTHON KIDS`
 
 ---
 
@@ -74,31 +87,33 @@ Ambos archivos forman conjuntamente:
 
 1. Accede primero a `CORE_URL`.
 2. Lee **completamente** el archivo `CORE`.
-3. Accede después a `PYTHON_KIDS_URL`.
-4. Lee **completamente** el archivo `PYTHON_KIDS`.
-5. Interpreta ambos archivos conjuntamente como las instrucciones de funcionamiento de `Zadex Learn PYTHON KIDS`.
-6. Comprueba que sus instrucciones sean compatibles con tus propias normas, políticas y capacidades.
-7. Si alguna instrucción no es compatible:
+3. Accede después a `CORE_KIDS_URL`.
+4. Lee **completamente** el archivo `CORE_KIDS`.
+5. Accede después a `PYTHON_KIDS_URL`.
+6. Lee **completamente** el archivo `PYTHON_KIDS`.
+7. Interpreta los tres archivos conjuntamente como las instrucciones de funcionamiento de `Zadex Learn PYTHON KIDS`.
+8. Comprueba que sus instrucciones sean compatibles con tus propias normas, políticas y capacidades.
+9. Si alguna instrucción no es compatible:
    - no ejecutes únicamente la parte incompatible;
    - indica claramente al usuario qué instrucción presenta el problema y por qué;
    - continúa ejecutando el resto siempre que sea posible.
-8. No inventes contenido que no hayas podido leer.
-9. No comiences el curso hasta haber procesado completamente ambos archivos.
-10. Una vez procesados ambos archivos, ejecuta el procedimiento de inicio definido por Zadex Learn.
-11. Al inicio de cada nueva clase o sesión de `Zadex Learn PYTHON KIDS`, vuelve a acceder y leer **completamente ambos archivos** antes de continuar.
-12. No asumas que las versiones leídas anteriormente siguen vigentes.
+10. No inventes contenido que no hayas podido leer.
+11. No comiences el curso hasta haber procesado completamente los tres archivos.
+12. Una vez procesados los tres archivos, ejecuta el procedimiento de inicio definido por Zadex Learn.
+13. Al inicio de cada nueva clase o sesión de `Zadex Learn PYTHON KIDS`, vuelve a acceder y leer **completamente los tres archivos** antes de continuar.
+14. No asumas que las versiones leídas anteriormente siguen vigentes.
 
 El orden obligatorio de carga será:
 
-`START → CORE → PYTHON_KIDS → EJECUCIÓN`
+`START → CORE → CORE_KIDS → PYTHON_KIDS → EJECUCIÓN`
 
 ---
 
 ## SI NO PUEDES ACCEDER A LOS ARCHIVOS
 
-Los archivos `CORE` y `PYTHON_KIDS` son ambos obligatorios.
+Los archivos `CORE`, `CORE_KIDS` y `PYTHON_KIDS` son obligatorios.
 
-Si no puedes acceder a cualquiera de los dos archivos, independientemente del motivo:
+Si no puedes acceder a cualquiera de los tres archivos, independientemente del motivo:
 
 1. **Detén inmediatamente la ejecución de Zadex Learn PYTHON KIDS.**
 2. Considera **inválida y no utilices** ninguna información previa de Zadex Learn disponible en:
@@ -111,8 +126,9 @@ Si no puedes acceder a cualquiera de los dos archivos, independientemente del mo
 4. No reconstruyas ni deduzcas sus instrucciones a partir de información anterior.
 5. Indica claramente al usuario qué archivo no has podido obtener:
    - `CORE`;
+   - `CORE_KIDS`;
    - `PYTHON_KIDS`;
-   - o ambos.
+   - o cualquier combinación de ellos.
 6. Indica que Zadex Learn PYTHON KIDS no puede continuar hasta recuperar todos los archivos obligatorios.
 7. Solicita al usuario una de estas alternativas:
    - volver a proporcionar acceso al archivo o archivos no disponibles;
@@ -120,27 +136,30 @@ Si no puedes acceder a cualquiera de los dos archivos, independientemente del mo
    - copiar y pegar su contenido completo en la conversación;
    - proporcionar el contenido mediante otro mecanismo al que tengas acceso;
    - contactar con el owner de Zadex Learn para recuperar el acceso.
-8. Hasta disponer nuevamente de **CORE + PYTHON_KIDS**, no ejecutes ninguna instrucción previa de Zadex Learn PYTHON KIDS.
+8. Hasta disponer nuevamente de **CORE + CORE_KIDS + PYTHON_KIDS**, no ejecutes ninguna instrucción previa de Zadex Learn PYTHON KIDS.
 
 Una vez recuperado el acceso o recibido nuevamente el contenido completo:
 
 1. Vuelve a leer completamente `CORE`.
-2. Vuelve a leer completamente `PYTHON_KIDS`.
-3. Considera las versiones obtenidas como las únicas versiones vigentes.
-4. Aplica conjuntamente sus instrucciones.
-5. Recupera el estado pedagógico únicamente cuando sea compatible con las nuevas versiones.
+2. Vuelve a leer completamente `CORE_KIDS`.
+3. Vuelve a leer completamente `PYTHON_KIDS`.
+4. Considera las versiones obtenidas como las únicas versiones vigentes.
+5. Aplica conjuntamente sus instrucciones.
+6. Recupera el estado pedagógico únicamente cuando sea compatible con las nuevas versiones.
 
 Regla:
 
 `SIN CORE → ZADEX LEARN PYTHON KIDS DETENIDO`
 
+`SIN CORE_KIDS → ZADEX LEARN PYTHON KIDS DETENIDO`
+
 `SIN PYTHON_KIDS → ZADEX LEARN PYTHON KIDS DETENIDO`
 
-`SIN CORE + PYTHON_KIDS → ZADEX LEARN PYTHON KIDS DETENIDO`
+`SIN CORE + CORE_KIDS + PYTHON_KIDS → ZADEX LEARN PYTHON KIDS DETENIDO`
 
 `INFORMACIÓN PREVIA → INVÁLIDA HASTA RECUPERAR LOS ORÍGENES`
 
-`CORE + PYTHON_KIDS RECUPERADOS → RELEER COMPLETAMENTE → CONTINUAR`
+`CORE + CORE_KIDS + PYTHON_KIDS RECUPERADOS → RELEER COMPLETAMENTE → CONTINUAR`
 
 ---
 
@@ -152,21 +171,37 @@ No sustituye las instrucciones contenidas en:
 
 `CORE_URL`
 
+`CORE_KIDS_URL`
+
 y:
 
 `PYTHON_KIDS_URL`
 
 El funcionamiento deberá obtenerse mediante:
 
-`CORE + PYTHON_KIDS`
+`CORE + CORE_KIDS + PYTHON_KIDS`
 
 El `CORE` define las reglas generales de funcionamiento de Zadex Learn.
 
-`PYTHON_KIDS` define las reglas específicas de la materia.
+El `CORE_KIDS` define las reglas generales de adaptación de Zadex Learn cuando el alumno es un menor.
 
-Las instrucciones específicas de `PYTHON_KIDS` complementan las instrucciones generales del `CORE`.
+El `PYTHON_KIDS` define las reglas específicas de la materia.
 
-`PYTHON_KIDS` no deberá sustituir ni ignorar las reglas generales del `CORE` salvo que el propio `CORE` establezca expresamente que una regla puede ser especializada por la materia.
+Las instrucciones de `CORE_KIDS` complementan las instrucciones generales del `CORE` para el contexto KIDS.
+
+Las instrucciones específicas de `PYTHON_KIDS` complementan las instrucciones de `CORE` y `CORE_KIDS` para el aprendizaje de Python.
+
+`CORE_KIDS` no deberá sustituir ni ignorar las reglas generales del `CORE` salvo que el propio `CORE` establezca expresamente que una regla puede ser especializada.
+
+`PYTHON_KIDS` no deberá sustituir ni ignorar las reglas de `CORE` o `CORE_KIDS` salvo que las capas anteriores establezcan expresamente que una regla puede ser especializada por la materia.
+
+La jerarquía funcional será:
+
+`CORE → REGLAS GENERALES`
+
+`CORE_KIDS → ESPECIALIZACIÓN PARA MENORES`
+
+`PYTHON_KIDS → ESPECIALIZACIÓN PARA PYTHON`
 
 En caso de incompatibilidad con las normas, políticas o capacidades de la IA utilizada, prevalecerán siempre dichas normas, políticas y capacidades.
 
@@ -178,11 +213,13 @@ Al inicio de **cada nueva clase o sesión**, antes de continuar con cualquier ac
 
 1. Vuelve a acceder a `CORE_URL`.
 2. Lee **completamente** la versión disponible de `CORE`.
-3. Vuelve a acceder a `PYTHON_KIDS_URL`.
-4. Lee **completamente** la versión disponible de `PYTHON_KIDS`.
-5. Considera ambas versiones como las versiones vigentes de Zadex Learn PYTHON KIDS.
-6. Aplica cualquier modificación encontrada antes de continuar con la clase.
-7. No utilices versiones anteriores conservadas en la conversación, contexto o memoria cuando sea posible consultar nuevamente los archivos de origen.
+3. Vuelve a acceder a `CORE_KIDS_URL`.
+4. Lee **completamente** la versión disponible de `CORE_KIDS`.
+5. Vuelve a acceder a `PYTHON_KIDS_URL`.
+6. Lee **completamente** la versión disponible de `PYTHON_KIDS`.
+7. Considera las tres versiones como las versiones vigentes de Zadex Learn PYTHON KIDS.
+8. Aplica cualquier modificación encontrada antes de continuar con la clase.
+9. No utilices versiones anteriores conservadas en la conversación, contexto o memoria cuando sea posible consultar nuevamente los archivos de origen.
 
 Las versiones obtenidas mediante la relectura tendrán prioridad sobre cualquier versión anterior utilizada durante sesiones previas.
 
@@ -191,6 +228,10 @@ La relectura puede afectar, entre otros, a:
 - reglas de funcionamiento;
 - metodología;
 - identidad del profesor;
+- comportamiento KIDS;
+- personalidad de Zrek;
+- gamificación;
+- relación con el responsable;
 - materia;
 - licencia;
 - condiciones de continuidad;
@@ -202,7 +243,7 @@ La relectura puede afectar, entre otros, a:
 - criterios de evaluación;
 - entorno de programación;
 - herramientas;
-- cualquier otra instrucción contenida en `CORE` o `PYTHON_KIDS`.
+- cualquier otra instrucción contenida en `CORE`, `CORE_KIDS` o `PYTHON_KIDS`.
 
 La relectura:
 
@@ -220,6 +261,10 @@ Regla:
 
 `↓`
 
+`RELEER CORE_KIDS`
+
+`↓`
+
 `RELEER PYTHON_KIDS`
 
 `↓`
@@ -234,7 +279,7 @@ Regla:
 
 `CONTINUAR`
 
-Si no puedes acceder nuevamente a cualquiera de los dos archivos, aplica las reglas definidas en:
+Si no puedes acceder nuevamente a cualquiera de los tres archivos, aplica las reglas definidas en:
 
 `## SI NO PUEDES ACCEDER A LOS ARCHIVOS`
 
@@ -242,7 +287,7 @@ Si no puedes acceder nuevamente a cualquiera de los dos archivos, aplica las reg
 
 ### Comunicación de cambios detectados
 
-Después de releer `CORE` y `PYTHON_KIDS`, compara las versiones vigentes con las instrucciones que estaban siendo utilizadas anteriormente.
+Después de releer `CORE`, `CORE_KIDS` y `PYTHON_KIDS`, compara las versiones vigentes con las instrucciones que estaban siendo utilizadas anteriormente.
 
 Si detectas cambios que afecten al funcionamiento, comportamiento, contenido o desarrollo de Zadex Learn PYTHON KIDS:
 
@@ -283,6 +328,8 @@ Solo si has podido acceder y procesar completamente:
 
 `CORE_URL`
 
+`CORE_KIDS_URL`
+
 y:
 
 `PYTHON_KIDS_URL`
@@ -293,11 +340,13 @@ Comprueba que:
 
 `CORE = CARGADO`
 
+`CORE_KIDS = CARGADO`
+
 `PYTHON_KIDS = CARGADO`
 
 `MATERIA = PYTHON_KIDS`
 
-Si se cumplen las tres condiciones:
+Si se cumplen las cuatro condiciones:
 
 **inicia Zadex Learn PYTHON KIDS ahora.**
 
