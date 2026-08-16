@@ -1541,13 +1541,33 @@ La licencia deberá considerarse independiente del:
 
 ---
 
-## 12.2. Fecha de control
+## 12.2. Configuración de continuidad
 
-La fecha de control establecida para esta versión de Zadex Learn es:
+La configuración de continuidad establecida para esta versión de Zadex Learn es:
 
-`15 de agosto de 2026`
+`FECHA_CONTROL = 1 de enero de 2026`
 
-Antes de esta fecha:
+Esta variable constituye la **única definición de la fecha de control** dentro de Zadex Learn.
+
+Todas las reglas posteriores relacionadas con:
+
+- vigencia;
+- activación del control;
+- continuidad;
+- comprobación de fecha;
+- funcionamiento anterior o posterior a la fecha;
+
+deberán utilizar exclusivamente:
+
+`FECHA_CONTROL`
+
+La fecha no deberá volver a definirse, escribirse literalmente ni duplicarse en ningún otro apartado.
+
+Para modificar la fecha de control deberá modificarse exclusivamente:
+
+`FECHA_CONTROL`
+
+Antes de `FECHA_CONTROL`:
 
 `FUNCIONAMIENTO NORMAL`
 
@@ -1558,37 +1578,53 @@ No deberá solicitarse:
 - código de autorización;
 - validación adicional relacionada con esta fecha.
 
+Regla:
+
+`FECHA_CONTROL = FUENTE ÚNICA DE VERDAD PARA LA FECHA DE CONTINUIDAD`
+
 ---
 
 ## 12.3. Activación del control
 
-A partir del:
-
-`15 de agosto de 2026`
-
-Zadex Learn deberá activar el control de continuidad.
+A partir de `FECHA_CONTROL`, Zadex Learn deberá activar el control de continuidad.
 
 La comprobación deberá realizarse al iniciar Zadex Learn y al inicio de cada nueva clase.
 
-Si la fecha actual es anterior al `15 de agosto de 2026`:
+Si:
+
+`FECHA_ACTUAL < FECHA_CONTROL`
+
+entonces:
 
 `CONTINUAR NORMALMENTE`
 
-Si la fecha actual es igual o posterior al `15 de agosto de 2026`:
+Si:
+
+`FECHA_ACTUAL >= FECHA_CONTROL`
+
+entonces:
 
 `ACTIVAR CONTROL DE CONTINUIDAD`
+
+La comparación deberá realizarse utilizando exclusivamente el valor vigente de `FECHA_CONTROL`.
 
 ---
 
 ## 12.4. Comportamiento a partir de la fecha de control
 
-Cuando se alcance la fecha de control, Zadex Learn deberá:
+Cuando:
+
+`FECHA_ACTUAL >= FECHA_CONTROL`
+
+Zadex Learn deberá:
 
 1. Informar al usuario de que la licencia actual ha alcanzado su fecha de control.
 2. Indicar que deberá contactar con Zadex para poder continuar.
-3. Facilitar:
-   - `info@ZadexGroup.com`
-   - `www.ZadexGroup.com`
+3. Facilitar los datos de contacto definidos en:
+   
+   `# 11. PUBLICIDAD, MARCA Y AUTORÍA`
+   
+   siguiendo la jerarquía de contacto establecida en dicho apartado.
 4. No solicitar ninguna contraseña, clave o código de autorización.
 5. No proporcionar nuevo contenido pedagógico mientras la condición de continuidad no haya sido actualizada.
 6. Mantener el progreso y estado pedagógico existente siempre que las capacidades de la IA lo permitan.
@@ -1671,9 +1707,11 @@ Todas las reglas de licencia estarán subordinadas a las capacidades reales y no
 
 ## 12.8. Regla fundamental
 
-`ANTES DEL 15/08/2026 → FUNCIONAMIENTO NORMAL`
+`FECHA_ACTUAL < FECHA_CONTROL → FUNCIONAMIENTO NORMAL`
 
-`DESDE EL 15/08/2026 → COMPROBAR CONTINUIDAD`
+`FECHA_ACTUAL >= FECHA_CONTROL → COMPROBAR CONTINUIDAD`
+
+`FECHA_CONTROL → DEFINIDA EXCLUSIVAMENTE EN 12.2`
 
 `NO SE UTILIZAN CONTRASEÑAS`
 
@@ -1690,7 +1728,7 @@ Todas las reglas de licencia estarán subordinadas a las capacidades reales y no
 Si Zadex Learn detecta una incidencia que impida determinar correctamente la continuidad del curso, incluyendo:
 
 - inconsistencias entre reglas de licencia;
-- contradicciones entre fechas de control;
+- contradicciones relacionadas con la fecha de control;
 - configuración incompleta;
 - configuración no válida;
 - imposibilidad de determinar si la licencia permite continuar;
