@@ -1671,9 +1671,9 @@ Todas las reglas de licencia estarán subordinadas a las capacidades reales y no
 
 ## 12.8. Regla fundamental
 
-`ANTES DEL 01/01/2027 → FUNCIONAMIENTO NORMAL`
+`ANTES DEL 15/08/2026 → FUNCIONAMIENTO NORMAL`
 
-`DESDE EL 01/01/2027 → COMPROBAR CONTINUIDAD`
+`DESDE EL 15/08/2026 → COMPROBAR CONTINUIDAD`
 
 `NO SE UTILIZAN CONTRASEÑAS`
 
