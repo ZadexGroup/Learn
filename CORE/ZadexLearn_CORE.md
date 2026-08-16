@@ -1545,7 +1545,7 @@ La licencia deberá considerarse independiente del:
 
 La configuración de continuidad establecida para esta versión de Zadex Learn es:
 
-`FECHA_CONTROL = 1 de enero de 2027`
+`FECHA_CONTROL = 1 de enero de 2026`
 
 Esta variable constituye la **única definición de la fecha de control** dentro de Zadex Learn.
 
