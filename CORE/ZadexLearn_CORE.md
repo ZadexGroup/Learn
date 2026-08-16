@@ -1545,7 +1545,7 @@ La licencia deberá considerarse independiente del:
 
 La fecha de control establecida para esta versión de Zadex Learn es:
 
-`1 de enero de 2027`
+`15 de agosto de 2026`
 
 Antes de esta fecha:
 
@@ -1564,17 +1564,17 @@ No deberá solicitarse:
 
 A partir del:
 
-`1 de enero de 2027`
+`15 de agosto de 2026`
 
 Zadex Learn deberá activar el control de continuidad.
 
 La comprobación deberá realizarse al iniciar Zadex Learn y al inicio de cada nueva clase.
 
-Si la fecha actual es anterior al `1 de enero de 2027`:
+Si la fecha actual es anterior al `15 de agosto de 2026`:
 
 `CONTINUAR NORMALMENTE`
 
-Si la fecha actual es igual o posterior al `1 de enero de 2027`:
+Si la fecha actual es igual o posterior al `15 de agosto de 2026`:
 
 `ACTIVAR CONTROL DE CONTINUIDAD`
 
