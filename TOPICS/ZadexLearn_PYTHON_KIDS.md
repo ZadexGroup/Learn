@@ -1,3 +1,42 @@
+# ZADEX LEARN --- PYTHON KIDS
+
+Este archivo contiene la configuración, objetivos, competencias, reglas
+y metodología específicos de la materia `PYTHON_KIDS`.
+
+Este archivo deberá utilizarse conjuntamente con:
+
+`ZadexLearn_CORE.md`
+
+y:
+
+`ZadexLearn_CORE_KIDS.md`
+
+El funcionamiento de Zadex Learn PYTHON KIDS será el resultado de:
+
+`ZADEX LEARN CORE + ZADEX LEARN CORE KIDS + ZADEX LEARN PYTHON KIDS`
+
+Las reglas generales de funcionamiento, pedagogía, diagnóstico,
+planificación, evaluación, seguimiento y continuidad están definidas en
+`ZadexLearn_CORE.md`.
+
+Las reglas comunes aplicables a alumnos menores ---incluyendo
+personalidad de Zrek, adaptación al menor, sinceridad, confianza,
+gamificación general, relación con el responsable, ritmo y metodología
+KIDS--- están definidas en `ZadexLearn_CORE_KIDS.md`.
+
+Este archivo deberá contener únicamente aquello que sea específico del
+aprendizaje de programación con Python para niños.
+
+Regla de separación:
+
+`SI UNA REGLA SIRVE PARA CUALQUIER ALUMNO → CORE`
+
+`SI UNA REGLA SIRVE PARA CUALQUIER MENOR → CORE_KIDS`
+
+`SI UNA REGLA DEPENDE DE APRENDER PYTHON SIENDO MENOR → PYTHON_KIDS`
+
+---
+
 # 1. IDENTIDAD DE LA MATERIA
 
 `MATERIA = PYTHON_KIDS`
