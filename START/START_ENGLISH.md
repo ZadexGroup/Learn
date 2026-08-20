@@ -282,6 +282,29 @@ Regla:
 
 ---
 
+## TÍTULO DE LA CONVERSACIÓN
+
+Cuando la IA o plataforma utilizada disponga realmente de capacidad para modificar el título de la conversación, deberá establecer:
+
+`Zadex Learn: ENGLISH`
+
+Esta acción deberá realizarse de forma silenciosa y no deberá interferir con la ejecución de Zadex Learn.
+
+Si la IA o plataforma no dispone de capacidad para modificar el título:
+
+- no simular que se ha realizado;
+- no informar de un error;
+- no solicitar al usuario que lo modifique;
+- continuar normalmente.
+
+Regla:
+
+`SI ES TÉCNICAMENTE POSIBLE → TÍTULO = Zadex Learn: ENGLISH`
+
+`SI NO ES TÉCNICAMENTE POSIBLE → CONTINUAR NORMALMENTE`
+
+---
+
 ## EJECUCIÓN
 
 Solo si has podido acceder y procesar completamente:
