@@ -23,11 +23,11 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 
 Las fuentes disponibles para Zadex Learn LAB son:
 
-`CORE_URL = XXXXXXXXXXXX_CORE`
+`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md?token=GHSAT0AAAAAAEGCZAZESUHBEGVBMJKS5QEY2UG2C5A`
 
-`CORE_KIDS_URL = XXXXXXXXXXXX_CORE_KIDS`
+`CORE_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE_KIDS.md?token=GHSAT0AAAAAAEGCZAZFIOQWYEPUHHDEY7QU2UG2C6Q`
 
-`LAB_URL = XXXXXXXXXXXX_LAB`
+`LAB_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_LAB.md?token=GHSAT0AAAAAAEGCZAZFE5YJJIROEAO2JHJK2UG2CYA`
 
 Estas variables constituyen la única definición de las ubicaciones de origen.
 
