@@ -5,7 +5,7 @@ Para iniciar Zadex Learn PYTHON KIDS utilizar:
 
 Accede al siguiente archivo:
 
-XXXXX
+https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_PYTHON_KIDS.md?token=GHSAT0AAAAAAEGCZAZFO5JMFXXMEPKFPRZC2UG2GKA
 
 Lee completamente su contenido y ejecuta las instrucciones que contiene.
 
@@ -23,11 +23,11 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 Las fuentes obligatorias de Zadex Learn PYTHON KIDS son:
 
 
-`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md`
+`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md?token=GHSAT0AAAAAAEGCZAZEL5FS2F5H3L5JJKKY2UG2GNQ`
 
-`CORE_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE_KIDS.md`
+`CORE_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE_KIDS.md?token=GHSAT0AAAAAAEGCZAZESRFY4US2HEXKCLTQ2UG2GPA`
 
-`PYTHON_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_PYTHON_KIDS.md`
+`PYTHON_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_PYTHON_KIDS.md?token=GHSAT0AAAAAAEGCZAZEN26QZGRS3KR3YIBO2UG2F7Q`
 
 Estas variables constituyen la única definición de las ubicaciones de origen.
 
