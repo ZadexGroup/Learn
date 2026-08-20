@@ -8,13 +8,13 @@ Para iniciar Zadex Learn ENGLISH utilizar:
 	Opción 1:
 ``` prompt
 Accede al siguiente archivo, léelo completamente y ejecuta sus instrucciones:
-https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_ENGLISH.md
+https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_ENGLISH.md?token=GHSAT0AAAAAAEGCZAZEMHUD2OAQFYDAG67U2UG2GMA
 ```
 
 	Opción 2:
 ``` prompt
 Accede al siguiente archivo:
-https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_ENGLISH.md
+https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_ENGLISH.md?token=GHSAT0AAAAAAEGCZAZEMHUD2OAQFYDAG67U2UG2GMA
 Lee completamente su contenido y ejecuta las instrucciones que contiene.
 ```
 
@@ -31,7 +31,7 @@ Las fuentes obligatorias de Zadex Learn ENGLISH son:
 
 `CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md?token=GHSAT0AAAAAAEGCZAZESUHBEGVBMJKS5QEY2UG2C5A`
 
-`ENGLISH_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_ENGLISH.md`
+`ENGLISH_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_ENGLISH.md?token=GHSAT0AAAAAAEGCZAZFTGYHKU4GTOF5LFP42UG2F4Q`
 
 Estas variables constituyen la única definición de las ubicaciones de origen.
 
