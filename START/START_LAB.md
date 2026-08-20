@@ -5,7 +5,7 @@ Para iniciar Zadex Learn LAB utilizar:
 
 ```prompt
 Accede al siguiente archivo:
-XXXXXXXXXXXX_START_LAB
+https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/START/START_LAB.md?token=GHSAT0AAAAAAEGCZAZFUJLTKEAQKM5OJHOM2UG2EGQ
 
 Lee completamente su contenido y ejecuta las instrucciones que contiene.
 ```
