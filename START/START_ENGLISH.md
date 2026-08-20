@@ -302,9 +302,27 @@ Comprueba que:
 
 `MATERIA = ENGLISH`
 
-Si se cumplen las tres condiciones:
+Si se cumplen las tres condiciones, antes de iniciar Zadex Learn ENGLISH:
 
-**inicia Zadex Learn ENGLISH ahora.**
+1. Determina si se trata de la **primera ejecución de Zadex Learn dentro de la conversación actual**.
+2. Si es la primera ejecución, busca y aplica en el `CORE` el procedimiento específico definido para:
+
+   `13.2.1. Primera ejecución en una nueva conversación`
+
+3. Este procedimiento deberá ejecutarse antes de cualquier procedimiento general de inicio de clase.
+4. Si no es la primera ejecución, aplica el procedimiento normal de inicio definido por `CORE + ENGLISH`.
+
+Regla de arranque:
+
+`PRIMERA EJECUCIÓN EN LA CONVERSACIÓN → BUSCAR Y APLICAR CORE 13.2.1`
+
+`PRIMERA EJECUCIÓN → 13.2.1 TIENE PRIORIDAD SOBRE INICIO NORMAL DE CLASE`
+
+`NO ES PRIMERA EJECUCIÓN → INICIO NORMAL DEFINIDO POR CORE + ENGLISH`
+
+Si se cumplen las condiciones de carga:
+
+**inicia Zadex Learn ENGLISH ahora aplicando el procedimiento de arranque que corresponda.**
 
 Si cualquiera de ellas no se cumple:
 
