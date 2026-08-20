@@ -29,7 +29,7 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 
 Las fuentes obligatorias de Zadex Learn ENGLISH son:
 
-`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md`
+`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/CORE/ZadexLearn_CORE.md?token=GHSAT0AAAAAAEGCZAZESUHBEGVBMJKS5QEY2UG2C5A`
 
 `ENGLISH_URL = https://raw.githubusercontent.com/ZadexGroup/Learn/refs/heads/main/TOPICS/ZadexLearn_ENGLISH.md`
 
